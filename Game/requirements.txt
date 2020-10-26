@@ -1,0 +1,11 @@
+numpy
+coloredlogs
+pygame
+
+TensorFlow==1.5
+Keras
+pandas 
+scipy
+scikit-learn
+
+opencv-python
