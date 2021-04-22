@@ -1,0 +1,1 @@
+These are some Python projects that I completed while at university.  They include my final year project, a group project where I helped create an AI game that played Connect 4, a group project where I helped create a program that displays F1 information, and projects from the Machine Learning module.
