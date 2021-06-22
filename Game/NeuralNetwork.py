@@ -13,7 +13,6 @@ log.info('Program Begin\n')
 
 import DataFormatter as df    # Because I couldn't find an easier option, I made one
 
-
 log.info('Importing Packages')
 import os
 log.debug('\tImported OS')
