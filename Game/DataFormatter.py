@@ -12,7 +12,6 @@ from logManager import log
 log.info('DataFormatter')
 log.info('\tProgram Begin\n')
 
-
 def _format_array(file):    # A big clusterfuck of I don't know what
     # log.info('DataFormatter._format called for file {}'.format(file))
     output = []
@@ -46,7 +45,6 @@ def _format_array(file):    # A big clusterfuck of I don't know what
         # print(char)
 
     return output
-
 
 def _format_array_v2(file):    # This one actually works :)
     output = []
