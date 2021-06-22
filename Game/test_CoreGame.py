@@ -1,12 +1,3 @@
-"""
-Name: test_CoreGame.py
-Purpose: Unit testing for AI group project
-Author: Ally Garton
-Date: 09/03/19
-"""
-
-# NOTE - all functions start by resetting the play field to its original empty 6x7
-#      - this ensures any changes made by previous functions do not affect testing
 
 import random
 import numpy as np
