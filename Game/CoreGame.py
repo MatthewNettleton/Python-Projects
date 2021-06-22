@@ -21,7 +21,6 @@ import NeuralNetwork as nn
 ROW_COUNT = 6
 COLUMN_COUNT = 7
 
-
 AIMode = True
 DataGatherMode = False
 GatherMove = False
