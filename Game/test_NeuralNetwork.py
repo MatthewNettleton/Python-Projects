@@ -11,7 +11,6 @@ new_model = None
 
 # All tests should return True unless an error occurs, except test__save_model, which returns None
 
-
 def test__get_data(): # Done
     # This function should return True unless there is an error
     assert NeuralNetwork._get_data() == True
